@@ -1,6 +1,5 @@
 import { observer } from 'mobx-react-lite';
 import './Search.css';
-
 import Form from './Form/Form';
 import rocketman from '../../assets/images/rocketman.svg';
 import document from '../../assets/images/document.svg';
